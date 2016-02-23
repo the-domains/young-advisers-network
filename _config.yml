@@ -1,0 +1,28 @@
+name: Young Advisers Network
+favicon: null
+layout_spectrum: 0.44958647922612727
+typography_spectrum: 0.4970806697383523
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.09118007170036435
+  lightness: 0.1111162060406059
+  saturation: 0.42073042900301516
+  rhythmicContrast: 0.7622377316001803
+purpose: []
